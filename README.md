@@ -1,2 +1,2 @@
 # urbangreenroofs
-by Anna Droz
+MAPPING a radius around roofs sampled by Dr. Anna Droz
